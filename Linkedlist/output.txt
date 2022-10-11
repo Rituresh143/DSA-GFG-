@@ -1,0 +1,4 @@
+3 
+3 4 
+memory is free for node with data3
+4 
